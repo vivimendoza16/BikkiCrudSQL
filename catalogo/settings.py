@@ -25,7 +25,7 @@ SECRET_KEY = '&(39kpr_!b8z8q)obic1^o@gqelp++m)6ayr1u_3cs#1y4=!eo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bikiappsql.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
